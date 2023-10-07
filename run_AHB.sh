@@ -1,0 +1,1 @@
+python -u run.py --dataset AHB_dataset --epochs 2 --batch_size 32 > train_AHB.log 2>&1 &
